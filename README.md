@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/neurodivergent/jekyll-pygments/stargazers"><img src="https://img.shields.io/github/stars/neurodivergent/jekyll-pygments?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/neurodivergent/jekyll-pygments/issues"><img src="https://img.shields.io/github/issues/neurodivergent/jekyll-pygments?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/neurodivergent/jekyll-pygments/contributors"><img src="https://img.shields.io/github/contributors/neurodivergent/jekyll-pygments?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/neuroconvergent/jekyll-pygments/stargazers"><img src="https://img.shields.io/github/stars/neuroconvergent/jekyll-pygments?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/neuroconvergent/jekyll-pygments/issues"><img src="https://img.shields.io/github/issues/neuroconvergent/jekyll-pygments?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/neuroconvergent/jekyll-pygments/contributors"><img src="https://img.shields.io/github/contributors/neuroconvergent/jekyll-pygments?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
