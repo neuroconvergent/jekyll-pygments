@@ -1,24 +1,11 @@
-//! Doc comment
 fn main() {
-    // Keywords, literals, types
-    let num: i32 = 42;
-    let flt: f64 = 3.14;
-    let boolean: bool = true;
-    let s = "Hello";
-    let c = 'c';
-
-    // Operators, punctuation
-    let sum = num + 1;
-    let cmp = num > 0;
-
-    // Functions, structs, enums, constants
-    struct Foo { val: i32 }
-    enum Bar { A, B }
-    fn baz() {}
-    const MAX: i32 = 100;
-
-    // Attributes, macros, regex
-    #[derive(Debug)] struct AttrTest;
-    macro_rules! my_macro { () => {} }
-    let regex = r"\d+";
+    let a = 1; let b = 2.5; let c = true; let d = 'x'; let e = "Hello";
+    let sum = a + 10; let cmp = b > 1.0; let text = format!("{} {}", e, a);
+    struct Foo { x: i32, y: i32 } let f = Foo { x: 5, y: 6 };
+    enum Bar { A, B } let bval = Bar::A;
+    let vec = vec![1, 2, 3]; let map = std::collections::HashMap::new();
+    let closure = |x:i32| x*x; let sq = closure(4);
+    match a { 0 => println!("zero"), _ => println!("other") }
+    for i in 0..3 { println!("{}", i); }
+    #[allow(dead_code)] fn hidden() {} hidden();
 }
