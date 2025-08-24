@@ -1,54 +1,47 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+	Catppuccin for <a href="https://jekyllrb.com/docs/liquid/tags/#stylesheets-for-syntax-highlighting">jekyll-pygments</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/neurodivergent/jekyll-pygments/stargazers"><img src="https://img.shields.io/github/stars/neurodivergent/jekyll-pygments?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/neurodivergent/jekyll-pygments/issues"><img src="https://img.shields.io/github/issues/neurodivergent/jekyll-pygments?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/neurodivergent/jekyll-pygments/contributors"><img src="https://img.shields.io/github/contributors/neurodivergent/jekyll-pygments?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="assets/previews/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+<img src="assets/previews/latte.webp" alt="Latte Preview"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+<img src="assets/previews/frappe.webp" alt="Frappé Preview"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+<img src="assets/previews/macchiato.webp" alt="Macchiato Preview"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img src="assets/previews/mocha.webp" alt="Mocha Preview"/>
 </details>
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
-
-<!-- The FAQ section is optional. Remove if needed.-->
-## 🙋 FAQ
-
-- Q: **_"How can I do X?"_**\
-  A: ...
+1. Download the flavor of your choice from [`css/`](css/) or generate the `.css` files from [`jekyll-pygments.tera`](jekyll-pygments.tera) using [Whiskers](https://github.com/catppuccin/whiskers).
+2. Import the `jekyll-pygments-<flavor>.css` into your Jekyll website as described in the [official documentation](https://jekyllrb.com/docs/liquid/tags/#stylesheets-for-syntax-highlighting).
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [neuroconvergent](https://github.com/neuroconvergent)
 
 &nbsp;
 
